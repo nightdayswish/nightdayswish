@@ -12,6 +12,6 @@
 <p align="center">i'll make it pretty later</p>
 
 <p align="center">
-  <a href="https://nightdayswish.straw.page/)">strawpage</a>
+  <a href="https://nightdayswish.straw.page/">strawpage</a>
   <a href="https://en.pronouns.page/@nightdayswish">prns</a>
 </p>
