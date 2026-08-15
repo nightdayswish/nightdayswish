@@ -31,6 +31,8 @@
 
 ![](https://komarev.com/ghpvc/?username=nightdayswish&style=plastic&label=fish&abbreviated=true)
 
+@gereosityscrapes is problematic verity media :/// they're also stupid. Don't follow.
+
 <img width="100" alt="image" src="https://github.com/user-attachments/assets/b1c066ef-7058-4bed-ab6e-a09f6f1dae16" />
 
 <img width="100" alt="image" src="https://github.com/user-attachments/assets/b1c066ef-7058-4bed-ab6e-a09f6f1dae16" />
