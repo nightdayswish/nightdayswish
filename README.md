@@ -31,9 +31,16 @@
 
 ![](https://komarev.com/ghpvc/?username=nightdayswish&style=plastic&label=fish&abbreviated=true)
 
-@gereosityscrapes is problematic verity media :/// they're also stupid. Don't follow.
+<p align="left">
+  <a href="https://github.com/gereosityscrapes">@gereosityscrapes</a> is problematic verity media :/// they're also stupid. Don't follow.
+</p>
 
-SELLING MFR @leafdere @gereosityscrapes @saps4flux/@tricoIour AND @winterabyssal FOR $100, BECAUSE KURO IS STUPID FOR SELLING US FOR FREE
+<p align="left">
+  SELLING MFR <a href="https://github.com/leafdere">@leafdere</a>,
+  <a href="https://github.com/gereosityscrapes">@gereosityscrapes</a>,
+  <a href="https://github.com/saps4flux">@saps4flux</a>/<a href="https://github.com/tricoIour">@tricolour</a>,
+  AND <a href="https://github.com/winterabyssal">@winterabyssal</a> FOR $100, BECAUSE KURO IS STUPID FOR SELLING US FOR FREE
+</p>
 
 <img width="100" alt="image" src="https://github.com/user-attachments/assets/b1c066ef-7058-4bed-ab6e-a09f6f1dae16" />
 
