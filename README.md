@@ -39,7 +39,7 @@
   SELLING MFR <a href="https://github.com/leafdere">@leafdere</a>,
   <a href="https://github.com/gereosityscrapes">@gereosityscrapes</a>,
   <a href="https://github.com/saps4flux">@saps4flux</a>/<a href="https://github.com/tricoIour">@tricolour</a>,
-  AND <a href="https://github.com/winterabyssal">@winterabyssal</a> FOR 4 CENTS, BECAUSE KURO IS STUPID FOR SELLING US FOR FREE!!!! You can't get any of them individually, each of them is worth 1 cent and I wouldn't make a profit if someone didn't buy ALL of them!!
+  AND <a href="https://github.com/winterabyssal">@winterabyssal</a> FOR 4 CENTS, BECAUSE KURO IS STUPID FOR SELLING US FOR FREE!!!! You have to buy them all together if you want them
 </p>
 
 <img width="100" alt="image" src="https://github.com/user-attachments/assets/b1c066ef-7058-4bed-ab6e-a09f6f1dae16" />
