@@ -33,7 +33,7 @@
 ![](https://komarev.com/ghpvc/?username=nightdayswish&style=plastic&label=fish&abbreviated=true)
 
 <p align="left">
-  <a href="https://github.com/gereosityscrapes">@gereosityscrapes</a> is problematic verity media :/// they're also stupid. Don't follow.
+  <a href="https://github.com/gereosityscrapes">osity</a> is problematic verity media :/// they're also stupid. Don't follow.
 </p>
 
 <p align="left">
