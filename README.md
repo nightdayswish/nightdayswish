@@ -55,3 +55,7 @@
 <img width="100" alt="image" src="https://github.com/user-attachments/assets/b1c066ef-7058-4bed-ab6e-a09f6f1dae16" />
 <img width="100" alt="image" src="https://github.com/user-attachments/assets/b1c066ef-7058-4bed-ab6e-a09f6f1dae16" />
 <img width="100" alt="image" src="https://github.com/user-attachments/assets/b1c066ef-7058-4bed-ab6e-a09f6f1dae16" />
+
+<img width="600" height="300" alt="image" src="https://github.com/user-attachments/assets/d0ec1631-bb57-4aa9-aa78-5ed69c9198dc" />
+
+i need to fix the shading 
