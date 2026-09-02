@@ -9,16 +9,6 @@
 </p>
 
 <details> 
- <summary> oomfs </summary>
-
-<p align="left">
-  <a href="https://github.com/thesecondcomings">connor</a> ,
-  <a href="https://github.com/AbyssalzoneDuo">demo</a>
-</p>
- 
-</details>
-
-<details> 
  <summary> qbm </summary>
 
 <p align="left">
@@ -28,6 +18,16 @@
   <a href="https://github.com/winterabyssal">kami</a> ,
   <a href="https://github.com/duowithme">four</a> ,
   <a href="https://github.com/wonderlandraja">miles</a>
+</p>
+ 
+</details>
+
+<details> 
+ <summary> oomfs </summary>
+
+<p align="left">
+  <a href="https://github.com/thesecondcomings">connor</a> ,
+  <a href="https://github.com/AbyssalzoneDuo">demo</a>
 </p>
  
 </details>
