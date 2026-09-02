@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=nightdayswish&style=plastic&label=fish&abbreviated=true)
 
 <p align="left">
-  <a href="https://nightdayswish.straw.page/">strawpage</a>
+  <a href="https://nightdayswish.straw.page/">strawp</a>
   <a href="https://en.pronouns.page/@nightdayswish">prns</a>
   <a href="https://sleetduo.atabook.org/">ata</a>
 </p>
