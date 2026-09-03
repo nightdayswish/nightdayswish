@@ -27,7 +27,8 @@
 
 <p align="left">
   <a href="https://github.com/thesecondcomings">connor</a> ,
-  <a href="https://github.com/AbyssalzoneDuo">demo</a>
+  <a href="https://github.com/AbyssalzoneDuo">demo</a> ,
+  <a href="https://github.com/katlective">branzy</a>
 </p>
  
 </details>
