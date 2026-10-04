@@ -4,7 +4,6 @@
 
 <p align="left">
   <a href="https://nightdayswish.straw.page/">straw</a>
-  <a href="https://en.pronouns.page/@nightdayswish">prns</a>
   <a href="https://sleetduo.atabook.org/">ata</a>
 </p>
 
